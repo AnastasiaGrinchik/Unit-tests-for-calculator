@@ -25,4 +25,4 @@ For a successful start on our project, you need to carry out a number of actions
 
 3. Install dependencies (mentioned in section **Based on**) via running `npm install`.
 
-4. Run command 'npm run test'.
+4. Run command `npm run test`.
